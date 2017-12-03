@@ -47,6 +47,7 @@ header .menus-container {padding-top: 5px;}
  opacity: 0.5;
 }
 .btn-blue {
- box-shadow: 1px 1px 2px #9e6a6a;
+ border-color: rgba(82,168,236,0.8);
+ box-shadow: 0 0 8px rgba(82,168,236,0.6);
 }
 </style>
