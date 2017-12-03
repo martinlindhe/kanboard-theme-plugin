@@ -46,4 +46,7 @@ header .menus-container {padding-top: 5px;}
  border: 1px solid #666;
  opacity: 0.5;
 }
+.btn-blue {
+ box-shadow: 1px 1px 2px #9e6a6a;
+}
 </style>
