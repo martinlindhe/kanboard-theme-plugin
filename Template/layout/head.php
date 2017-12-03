@@ -39,15 +39,22 @@ header .menus-container {padding-top: 5px;}
 
 
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
+ /** less sharp tag border */
  border: 1px solid #dddddd;
 }
 .task-tags li {
+ /** less sharp tags */
  color: #333;
  border: 1px solid #666;
  opacity: 0.5;
 }
 .btn-blue {
+    /* button glow */
  border-color: rgba(82,168,236,0.8);
  box-shadow: 0 0 8px rgba(82,168,236,0.6);
+}
+input[type="number"], input[type="date"], input[type="email"], input[type="password"], input[type="text"]:not(.input-addon-field), textarea {
+   /* rounded input fields - less "hard" look */
+   border-radius: 5px;
 }
 </style>
