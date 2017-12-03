@@ -37,19 +37,13 @@ header .menus-container {padding-top: 5px;}
 
 .draggable-placeholder {border: 1px dotted black;}
 
-input[type="number"]:focus,input[type="date"]:focus,input[type="email"]:focus,input[type="password"]:focus,input[type="text"]:focus {
- box-shadow: none;
-}
-textarea:focus {
- box-shadow: none;
-}
-
 
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
  border: 1px solid #dddddd;
 }
 .task-tags li {
  color: #333;
- border: 1px solid #666;
+ border: 1px solid #e5e5e5;
+ opacity: 0.5;
 }
 </style>
