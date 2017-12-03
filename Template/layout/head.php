@@ -48,4 +48,7 @@ textarea:focus {
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
  border: 1px solid #dddddd;
 }
+.task-tags li {
+ border: 1px solid #dddddd;
+}
 </style>
