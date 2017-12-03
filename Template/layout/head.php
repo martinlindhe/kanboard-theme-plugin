@@ -58,9 +58,10 @@ input[type="number"], input[type="date"], input[type="email"], input[type="passw
    border-radius: 5px;
 }
 
-/* top menu */
+/* top menu & left menu tweaks */
 .page {
     padding: 0px;
+    margin: 0px;
 }
 .page-header {
     border-bottom: 1px solid #dedede;
@@ -73,5 +74,11 @@ input[type="number"], input[type="date"], input[type="email"], input[type="passw
 .page-header ul a {
     text-decoration: none;
     color: #333;
+}
+.sidebar {
+    padding-left: 10px;
+}
+.sidebar-content {
+    padding-right: 10px;
 }
 </style>
