@@ -81,4 +81,7 @@ input[type="number"], input[type="date"], input[type="email"], input[type="passw
 .sidebar-content {
     padding-right: 10px;
 }
+header {
+    margin-bottom: 0px;
+}
 </style>
