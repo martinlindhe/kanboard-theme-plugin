@@ -49,6 +49,7 @@ textarea:focus {
  border: 1px solid #dddddd;
 }
 .task-tags li {
- border: 1px solid #666666;
+ color: #333;
+ border: 1px solid #666;
 }
 </style>
