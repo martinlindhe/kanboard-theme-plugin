@@ -62,9 +62,12 @@ input[type="number"], input[type="date"], input[type="email"], input[type="passw
 .page {
     padding: 0px;
 }
+.page-header {
+    border-bottom: 1px solid #dedede;
+    background-color: #fbfbfb;
+}
 .page-header ul {
     padding-bottom: 10px;
-    border-bottom: 1px solid #666;
     opacity: 0.5;
 }
 .page-header ul a {
