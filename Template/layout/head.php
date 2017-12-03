@@ -36,4 +36,11 @@ header .menus-container {padding-top: 5px;}
 .task-board-icons span:hover {opacity: 1;}
 
 .draggable-placeholder {border: 1px dotted black;}
+
+input[type="number"]:focus,input[type="date"]:focus,input[type="email"]:focus,input[type="password"]:focus,input[type="text"]:focus {
+ box-shadow: revert;
+}
+textarea:focus {
+ box-shadow: revert;
+}
 </style>
