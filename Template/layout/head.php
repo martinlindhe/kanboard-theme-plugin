@@ -43,4 +43,9 @@ input[type="number"]:focus,input[type="date"]:focus,input[type="email"]:focus,in
 textarea:focus {
  box-shadow: none;
 }
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+ border: 1px solid #dddddd;
+}
 </style>
