@@ -57,4 +57,18 @@ input[type="number"], input[type="date"], input[type="email"], input[type="passw
    /* rounded input fields - less "hard" look */
    border-radius: 5px;
 }
+
+/* top menu */
+.page {
+    padding: 0px;
+}
+.page-header ul {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #666;
+    opacity: 0.5;
+}
+.page-header ul a {
+    text-decoration: none;
+    color: #333;
+}
 </style>
