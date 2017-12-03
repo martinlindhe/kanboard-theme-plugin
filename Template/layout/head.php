@@ -43,7 +43,7 @@ header .menus-container {padding-top: 5px;}
 }
 .task-tags li {
  color: #333;
- border: 1px solid #e5e5e5;
+ border: 1px solid #666;
  opacity: 0.5;
 }
 </style>
